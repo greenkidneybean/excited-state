@@ -7,7 +7,8 @@ layout: default
 
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="{{site.profile | relative_url}}" >
 
-![sean profile](/assets/img/sean.jpeg)
+![sean profile](assets/img/sean.jpeg)
+![sean profile]('assets/img/sean.jpeg')
 
 Stand-in description of the show and it's purpose.  This document serves as the landing page for the website.  
 
