@@ -5,10 +5,7 @@ layout: default
 # Excited State
 ### Hosted by Sean Bresler
 
-<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/img/sean.jpeg">
-
-
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src={{ site.profile | prepend:site.baseurl }} >
+<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="{{site.profile | relative_url}}" >
 
 Stand-in description of the show and it's purpose.  This document serves as the landing page for the website.  
 
