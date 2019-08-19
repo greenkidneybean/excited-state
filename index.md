@@ -14,5 +14,6 @@ Stand-in description of the show and it's purpose.  This document serves as the 
 * Maybe a search bar for episodes?  
 * May have to adopt the minima scheme for adding new pages with a `_post` directory in the GitHub repo.
 * remove the chapel emoji favicon
+* latest update
 
 [This is a crude link to another pate](./another-page.html).
