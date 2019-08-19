@@ -6,7 +6,7 @@ layout: default
 ### Hosted by Sean Bresler
 
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/img/sean.jpeg" >
-<p style="text-align: center;"><b>Sean Bresler - Groomsman</b></p>
+<p style="text-align: center;"><b>Sean Bresler</b></p>
 
 Stand-in description of the show and it's purpose.  This document serves as the landing page for the website.  
 
