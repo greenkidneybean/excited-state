@@ -9,6 +9,7 @@ layout: default
 
 ![sean profile](assets/img/sean.jpeg)
 ![sean profile]('assets/img/sean.jpeg')
+![sean profile]('greenkidneybean.github.io/excited-state/assets/img/sean.jpeg')
 
 Stand-in description of the show and it's purpose.  This document serves as the landing page for the website.  
 
