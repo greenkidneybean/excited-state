@@ -6,6 +6,7 @@ layout: default
 ### Hosted by Sean Bresler
 
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="{{site.profile | relative_url}}" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="{{"assets/img/sean.jpeg" | relative_url}}" >
 
 ![sean profile](assets/img/sean.jpeg)
 ![sean profile]('assets/img/sean.jpeg')
